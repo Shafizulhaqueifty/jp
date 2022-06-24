@@ -1,0 +1,24 @@
+#draggable { width: 100px; height: 100px; padding: 0.5em; float: left; margin: 10px 10px 10px 0; }
+  #droppable { width: 150px; height: 150px; padding: 0.5em; float: left; margin: 10px; }
+
+
+  #draggable1 { width: 100px; height: 40px; padding: 0.5em; float: left; margin: 10px 10px 10px 0; }
+  #droppable1, #droppable2 { width: 230px; height: 120px; padding: 0.5em; float: left; margin: 10px; }
+  #droppable-inner, #droppable2-inner { width: 170px; height: 60px; padding: 0.5em; float: left; margin: 10px; }
+ #resizable { width: 150px; height: 150px; padding: 0.5em; }
+  #resizable h3 { text-align: center; margin: 0; }
+
+
+   #feedback { font-size: 1.4em; }
+  #selectable .ui-selecting { background: #FECA40; }
+  #selectable .ui-selected { background: #F39814; color: white; }
+  #selectable { list-style-type: none; margin: 0; padding: 0; width: 450px; }
+  #selectable li { margin: 3px; padding: 1px; float: left; width: 100px; height: 80px; font-size: 4em; text-align: center; }
+  
+
+  #accordion-resizer {
+    padding: 10px;
+    width: 350px;
+    height: 220px;
+
+  
